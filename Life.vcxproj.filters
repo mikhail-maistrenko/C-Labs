@@ -18,12 +18,15 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Abonent.cpp">
+    <ClCompile Include="Me.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Product factories.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Abonent.h">
+    <ClInclude Include="Me.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>

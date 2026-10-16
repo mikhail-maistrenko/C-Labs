@@ -140,11 +140,12 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Abonent.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Me.cpp" />
+    <ClCompile Include="Product factories.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Abonent.h" />
+    <ClInclude Include="Me.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
